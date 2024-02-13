@@ -1,8 +1,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+    <h1> Ola! Me chamo Luis Otavio.</h1>
+    Sou programador/estilista focado em front-end para trabalhos freelancer, faco muito landing page como paginas de apresentacoes, paginas de login e entre outros(como por exemplos os que eu tenho de repositorio aqui).<br>
+    Tenho focado ultimamente em estudos de outras linguagem como java, PHP, SQL, Node e Python alem de estar cursando ciencias da computacao.<br>
+    Meu objetivo por enquanto e trabalhar como Freelancer para arrecadar um dinheiro e experiencia para futuros trabalhos, tanto empresarial como pessoal.
 </p>
 
 <p align="left">
