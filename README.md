@@ -7,24 +7,23 @@
 
 <p align="left">
   🦄 Linguagens:
-      <img src="
-      ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-      ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-      ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) "/>           
+      <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396"/>
+      <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
+      <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
+      <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
+  </p>
+
+<p align="left">
+  💼 Ferramentas: 
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+      <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255"/>
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💌 Se caso tenha algum interesse em fazer um projeto comigo, clique em algum desses de baixo e entre em contato comigo.: ⤵️
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="wa.me/19999896768" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/l0izim/" title="Instagram">
