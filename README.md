@@ -1,10 +1,10 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=l0izim&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 <p align="left"> 
     <h1> Ola! Me chamo Luis Otavio.</h1>
-    Sou programador/estilista focado em front-end para trabalhos freelancer, faco muito landing page como paginas de apresentacoes, paginas de login e entre outros(como por exemplos os que eu tenho de repositorio aqui).<br>
-    Tenho focado ultimamente em estudos de outras linguagem como java, PHP, SQL, Node e Python alem de estar cursando ciencias da computacao.<br>
-    Meu objetivo por enquanto e trabalhar como Freelancer para arrecadar um dinheiro e experiencia para futuros trabalhos, tanto empresarial como pessoal.
+     Sou programador/estilista focado em front-end para trabalhos freelancers, faço muito landing page como páginas de apresentações, páginas de login e entre outros (como, por exemplo, os que eu tenho de repositório aqui).
+    Tenho focado ultimamente em estudos de outras linguagens como java, PHP, SQL, Node e Python, além de estar cursando ciências da computação.
+    Meu objetivo por enquanto é trabalhar como Freelancer para arrecadar um dinheiro e experiência para futuros trabalhos, tanto empresarial como pessoal.<hr>
 </p>
 
 <p align="left">
