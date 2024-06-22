@@ -23,6 +23,8 @@
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
       <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255"/>
         <img src="https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=1572B6"/>
+        <img src="https://img.shields.io/badge/-DEV-C++-333333?style=flat&logo=DEV-C++&logoColor=1572B6"/>
+
 </p>
 
 <p align="left">
