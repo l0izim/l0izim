@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
       <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
         <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C++"/>
-        <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=1572B6"/>
+        <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=f2CC4B"/>
 
   </p>
 
