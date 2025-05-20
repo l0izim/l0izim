@@ -2,6 +2,10 @@
 
 <p align="left"> 
     <h1>Luis Otavio</h1>
+    Todos os meus projetos e estudos sobre programacão eu coloco aqui
+    <br>
+    <br>
+    <br>
 </p>
 
 <p align="left">
