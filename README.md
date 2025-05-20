@@ -2,7 +2,6 @@
 
 <p align="left"> 
     <h1> Ola! Me chamo Luis Otavio.</h1>
-     <hr>
 </p>
 
 <p align="left">
@@ -11,8 +10,8 @@
       <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/>
       <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"/>
       <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"/>
-        <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C++"/>
-        <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=f2CC4B"/>
+      <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C++"/>
+      <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=f2CC4B"/>
 
   </p>
 
@@ -20,7 +19,7 @@
   💼 Ferramentas: 
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
       <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255"/>
-        <img src="https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=f2CC49"/>
+      <img src="https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=f2CC49"/>
 </p>
 
 <p align="left">
