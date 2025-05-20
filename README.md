@@ -2,9 +2,7 @@
 
 <p align="left"> 
     <h1> Ola! Me chamo Luis Otavio.</h1>
-     Sou programador/estilista focado em front-end para trabalhos freelancers, faço muito landing page como páginas de apresentações, páginas de login e entre outros (como, por exemplo, os que eu tenho de repositório aqui).
-    Tenho focado ultimamente em estudos de outras linguagens como java, PHP, SQL, Node e Python, além de estar cursando ciências da computação.
-    Meu objetivo por enquanto é trabalhar como Freelancer para arrecadar um dinheiro e experiência para futuros trabalhos, tanto empresarial como pessoal.<hr>
+     <hr>
 </p>
 
 <p align="left">
